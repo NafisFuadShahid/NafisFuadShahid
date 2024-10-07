@@ -2,10 +2,10 @@
 
 I'm a student at the [IUT](https://www.iutoic-dhaka.edu/), with a strong interest in competitive programming, machine learning, and web development.
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nafis.fuad.169) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nafis-fuad-shahid-b75740221) [![Codeforces](https://img.shields.io/badge/Codeforces-%234B6B87.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/NafiShahid)
 
-## 🖥️ Tech Stack:
+## 🖥️ Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) 
@@ -28,7 +28,7 @@ I'm a student at the [IUT](https://www.iutoic-dhaka.edu/), with a strong interes
 
 
 
-## 📈 GitHub Stats:
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nafisfuadshahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="GitHub Stats" />
