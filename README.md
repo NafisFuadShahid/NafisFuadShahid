@@ -34,6 +34,6 @@ I'm a student at the [IUT](https://www.iutoic-dhaka.edu/), with a strong interes
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisfuadshahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Top Languages" />
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=NafisFuadShahid&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=NafisFuadShahid&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
