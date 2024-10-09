@@ -5,10 +5,6 @@ I'm a student at the [IUT](https://www.iutoic-dhaka.edu/), with a strong interes
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nafis.fuad.169) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nafis-fuad-shahid-b75740221) [![Codeforces](https://img.shields.io/badge/Codeforces-%234B6B87.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/NafiShahid)
 
-## ⭐ Follow Me
-<a href="https://github.com/nafisfuadshahid">
-  <img src="https://img.shields.io/badge/Follow%20me-@nafisfuadshahid-blue?style=social" style="transform: scale(1.5);">
-</a>
 
 
 ## 🖥️ Tech Stack
