@@ -1,6 +1,6 @@
 # Nafis Fuad Shahid  
 
-I'm a student at the [IUT](https://www.iutoic-dhaka.edu/), with a strong interest in competitive programming, machine learning, and web development.
+I'm a student at [IUT](https://www.iutoic-dhaka.edu/), with a strong interest in competitive programming, machine learning, and web development.
 I am currently learning and exploring Spring Boot and NLP concepts.
 
 
